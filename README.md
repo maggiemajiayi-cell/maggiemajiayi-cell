@@ -24,7 +24,7 @@ Outside of engineering, I'm a 2D game and ACG lover.
 - **[Wander OvO](https://maggieeeeem.itch.io/wander-ovo):** A 2D platformer designed and shipped during a 72-hour game jam.
 - **[Delirium Detection Wristband](https://github.com/maggiemajiayi-cell/hospital_delirium):** An Arduino wearable integrating pulse and motion sensors.
 - **[EMG Fabric — Biotron](https://github.com/maggiemajiayi-cell/Biotron-Sleeve-Remake):** Low-noise EMG circuit design and signal-quality improvements.
-- **[The Clockmaker's Curse](https://maggiemajiayi-cell.github.io/clockmakers-curse/clockwork/):** An ongoing browser escape-room adventure.
+- **[The Thirteenth Chime](https://maggiemajiayi-cell.github.io/the-thirteenth-chime/clockwork/):** An ongoing browser escape-room adventure where time slips beyond the final familiar bell.
 
 ## 📫 Find Me
 
