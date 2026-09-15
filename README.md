@@ -1,32 +1,27 @@
-# Hi there! I'm JiaYi (Maggie) Ma, a Computer Engineering student at the University of Waterloo. 👋
+<img src="assets/github-header.svg" alt="Hello! I'm JiaYi (Maggie) Ma. Computer Engineering at the University of Waterloo." width="1200" />
 
-## 🚀 About Me
+### About Me
 
-I'm a Computer Engineering student who enjoys working across the boundary between software and hardware. I build embedded systems, integrate sensors, and develop interactive prototypes that turn low-level functionality into tangible experiences.
+I'm a Computer Engineering student at the University of Waterloo. I like connecting embedded hardware, robotics, AI, and thoughtful interfaces into systems people can actually use.
 
-I've worked on medical wearables, computer-vision hardware, voice-first AI tools, and 2D games. I learn fast, ship real projects, and thrive under tight deadlines.
+### What I'm Working On
 
-Outside of engineering, I'm a 2D game and ACG lover.
+I'm exploring robotics simulation and hardware–software integration, while continuing to build **[The Thirteenth Chime](https://maggiemajiayi-cell.github.io/the-thirteenth-chime/clockwork/)**, a browser-based escape room.
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-- **Embedded Development:** C, C++, Arduino, ESP32, sensors, I2S, EMG systems
-- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS
-- **AI & Computer Vision:** Gemini API, Roboflow, voice interfaces
-- **Game Development:** Godot, GDScript
-- **Object-Oriented Programming:** Java, C++
-- **Tools:** Git, GitHub, Arduino IDE
+- **Languages:** C, C++, Python, JavaScript, SQL, Verilog
+- **Embedded & robotics:** ESP32, Arduino, ROS, AirSim, sensor integration
+- **Web & AI:** React, Next.js, Gemini AI, OpenHex, computer vision
+- **Tools:** Git, Unreal Engine, Godot, KiCad
 
-## 📌 Featured Projects
+### Selected Work
 
-- **[Sprout — Voice-First English Learning AI](https://maggiemajiayi-cell.github.io/Sprout_voice_input_AItraining/):** Real-time speech processing and Gemini AI for newcomers and refugees.
-- **[Make Flora](https://github.com/maggiemajiayi-cell/Make_Flora):** ESP32-CAM and Roboflow flower detection that triggers music and physical feedback.
-- **[Wander OvO](https://maggieeeeem.itch.io/wander-ovo):** A 2D platformer designed and shipped during a 72-hour game jam.
-- **[Delirium Detection Wristband](https://github.com/maggiemajiayi-cell/hospital_delirium):** An Arduino wearable integrating pulse and motion sensors.
-- **[EMG Fabric — Biotron](https://github.com/maggiemajiayi-cell/Biotron-Sleeve-Remake):** Low-noise EMG circuit design and signal-quality improvements.
-- **[The Thirteenth Chime](https://maggiemajiayi-cell.github.io/the-thirteenth-chime/clockwork/):** An ongoing browser escape-room adventure where time slips beyond the final familiar bell.
+- **[UAV research](https://www.youtube.com/watch?v=MFlh8-qheTQ)** — Built a virtual–real testing platform at Tongji University, connecting AirSim and Unreal Engine simulations with ROS and motion capture for autonomous navigation research.
+- **[Tongzhou mini program](https://maggiemajiayi-cell.github.io/portfolio/#projects)** — Structured alumni records with SQL and refined OpenHex agents for lookup, summaries, and service recommendations.
+- **[Eight For Long](https://maggieeeeem.itch.io/eight-for-long)** — Shipped an underwater room escape game in 96 hours for GMTK Game Jam 2026; every interaction spends part of an eight-minute countdown. [Code](https://github.com/NPC-No-1/Eight-Minutes)
+- **[Sprout](https://maggiemajiayi-cell.github.io/Sprout_voice_input_AItraining/)** — Built a voice-first English learning companion for newcomers and refugees using real-time speech processing and Gemini AI. [Code](https://github.com/maggiemajiayi-cell/Sprout_voice_input_AItraining)
 
-## 📫 Find Me
+### Links
 
-- **Portfolio:** [maggiemajiayi-cell.github.io/portfolio](https://maggiemajiayi-cell.github.io/portfolio/)
-- **Location:** Ontario, Canada
+[Portfolio](https://maggiemajiayi-cell.github.io/portfolio/) · [GitHub](https://github.com/maggiemajiayi-cell) · [LinkedIn](https://www.linkedin.com/in/jiayi-ma-795600262/) · [Email](mailto:m286ma@uwaterloo.ca)
