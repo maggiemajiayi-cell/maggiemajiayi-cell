@@ -8,7 +8,7 @@ I'm a Computer Engineering student at the University of Waterloo. I like connect
 
 I'm exploring robotics simulation and hardware–software integration, while continuing to build **[The Thirteenth Chime](https://maggiemajiayi-cell.github.io/the-thirteenth-chime/clockwork/)**, a browser-based escape room.
 
-### Tech Stack
+### TechStack
 
 - **Languages:** C, C++, Python, JavaScript, SQL, Verilog
 - **Embedded & robotics:** ESP32, Arduino, ROS, AirSim, sensor integration
