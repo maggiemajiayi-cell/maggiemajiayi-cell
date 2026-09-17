@@ -2,6 +2,7 @@
 
 ### About Me
 
+
 I'm a Computer Engineering student at the University of Waterloo. I like connecting embedded hardware, robotics, AI, and thoughtful interfaces into systems people can actually use.
 
 ### What I'm Working On
