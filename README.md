@@ -1,6 +1,6 @@
 <img src="assets/github-header.svg" alt="Hello! I'm (JiaYi) Maggie Ma. Computer Engineering at the University of Waterloo." width="1200" />
 
-### About Me  
+### About Me   
 
 I'm a Computer Engineering student at the University of Waterloo. I like connecting embedded hardware, robotics, AI, and thoughtful interfaces into systems people can actually use.
 
