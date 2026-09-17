@@ -1,4 +1,4 @@
-<img src="assets/github-header.svg" alt="Hello! I'm JiaYi (Maggie) Ma. Computer Engineering at the University of Waterloo." width="1200" />
+<img src="assets/github-header.svg" alt="Hello! I'm (JiaYi) Maggie Ma. Computer Engineering at the University of Waterloo." width="1200" />
 
 ### About Me
 
