@@ -4,7 +4,7 @@
 
 I'm a Computer Engineering student at the University of Waterloo. I like connecting embedded hardware, robotics, AI, and thoughtful interfaces into systems people can actually use.
 
-### What I'm Working On 
+### What I'm Working On
 
 I'm exploring robotics simulation and hardware–software integration, while continuing to build **[The Thirteenth Chime](https://maggiemajiayi-cell.github.io/the-thirteenth-chime/clockwork/)**, a browser-based escape room.
 
